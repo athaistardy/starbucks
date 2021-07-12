@@ -1,5 +1,15 @@
 # Sejam Bem vindos!
 
-## Vamos inciar um novo Projeto de Estudo!
+Projeto starbucks, feito a partir do template da [Nicepage](https://nicepage.com/st/17223/starbucks-coffee-website-template).
 
-[Clique aqui](https://athaistardy.github.io/starbucks/) e Veja a Página em funcionamento!
+## Tecnologias utilizadas:
+* Html & CSS
+  - Flexbox & CSS Grid
+
+## Imagem do Projeto:
+
+![Starbucks](https://github.com/athaistardy/starbucks/blob/master/assets/images/template.JPG)
+
+## Link do Projeto:
+
+[Projeto no ar!](https://athaistardy.github.io/starbucks/)

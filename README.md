@@ -13,3 +13,7 @@ Projeto starbucks, feito a partir do template da [Nicepage](https://nicepage.com
 ## Link do Projeto:
 
 [Projeto no ar!](https://athaistardy.github.io/starbucks/)
+
+
+### Instagram:
+[@athaistardy](https://www.instagram.com/athaistardy/)
